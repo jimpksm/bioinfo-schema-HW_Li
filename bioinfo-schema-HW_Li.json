@@ -1,0 +1,14 @@
+{
+"$schema": "http://json-schema.org/draft-07/schema#",
+"$id": https://github.com/jimpksm/bioinfo-schema-HW_Li/new/main",
+"type": "object",
+"title": "Homo sapiens isolate NS 07 to 03 mitochondrion",
+"description": "Homo sapiens isolate NS mitochondrion, complete genome"
+  "required": [
+  "name",
+  "length"，
+  “accession number"
+  ],
+"properties": {
+  
+  
