@@ -1,0 +1,23 @@
+{
+  "data" : [{
+    "name" :  "HSNS07",
+    "length" : 16569,
+    "accession number" : "GU170821"
+  },{
+    "name" :  "HSNS06",
+    "length" : 16571,
+    "accession number" : "GU170820"
+  },{
+    "name" :  "HSNS05",
+    "length" : 16570,
+    "accession number" : "GU170819"
+  },{
+    "name" :  "HSNS04",
+    "length" : 16570,
+    "accession number" : "GU170818"
+  },{
+    "name" :  "HSNS03",
+    "length" : 16570,
+    "accession number" : "GU170817"
+  }]
+}
