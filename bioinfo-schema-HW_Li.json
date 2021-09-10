@@ -6,7 +6,7 @@
 "description": "Homo sapiens isolate NS mitochondrion, complete genome.",
   "required": [
   "name",
-  "length"，
+  "length",
   "accession number"
   ],
 "properties": {
