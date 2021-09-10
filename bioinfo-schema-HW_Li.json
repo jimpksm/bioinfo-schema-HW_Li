@@ -1,6 +1,6 @@
 {
 "$schema": "http://json-schema.org/draft-07/schema#",
-"$id": https://github.com/jimpksm/bioinfo-schema-HW_Li/new/main",
+"$id": "raw.githubusercontent.com/jimpksm/bioinfo-schema-HW_Li/main/bioinfo-schema-HW_Li.json",
 "type": "object",
 "title": "Homo sapiens isolate NS 07 to 03 mitochondrion",
 "description": "Homo sapiens isolate NS mitochondrion, complete genome"
@@ -10,5 +10,30 @@
   “accession number"
   ],
 "properties": {
-  
+  "name": {
+    "type": "string",
+    "description": "Mitochondrial DNA haplogroup 'R' is associated with Noonan syndrome of South India.",
+    "examples": [
+      "HSN07",
+      "HSN06"
+      ]
+  }
+  "length": {
+     "type": "integer",
+    "description": "The length of the nucleotides is descripted in base pairs.",
+    "examples": [
+    "16569",
+    "16570"
+    ]
+}
+  "accession number": {
+     "type": "string"
+    "description": "the code is destributed by ncbi on behalf of every individual nueleotides",
+    "examples": [
+  "GU170821",
+  "GU170820"
+  ]
+}
+}
+}
   
