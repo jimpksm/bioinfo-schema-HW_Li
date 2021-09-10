@@ -17,7 +17,7 @@
       "HSN07",
       "HSN06"
       ]
-  }
+  },
   "length": {
      "type": "integer",
     "description": "The length of the nucleotides is descripted in base pairs.",
@@ -25,9 +25,9 @@
     "16569",
     "16570"
     ]
-}
+},
   "accession number": {
-     "type": "string"
+     "type": "string",
     "description": "the code is destributed by ncbi on behalf of every individual nueleotides.",
     "examples": [
   "GU170821",
